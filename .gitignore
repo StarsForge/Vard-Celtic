@@ -1,0 +1,20 @@
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Visual Studio
+.vs/
+*.sln
+*.VC.db
+
+# Logs
+*.log
+
+# Build
+Build/
+
+# OS
+.DS_Store
+Thumbs.db
